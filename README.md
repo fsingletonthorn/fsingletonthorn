@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">I am a data scientist / engineer with experience across academic, private, and public sector organisations.</h3>
+<h1 align="left">Hi 👋, I'm Felix</h1>
 
 - 🌱 I’m currently heading up the Analytics and business process improvement teams at Oxfam Australia
 - ✨ I work across all things data, analytics and process improvement, with a focus on data modelling, the modern data stack, and working with senior executives and the c-suite to make sure that data teams can make a real difference in organisations
