@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">I am a data analytics professional with experience in project management, team leadership, data engineerin,g and advanced analytics across academic, private, and public sector organisations.</h3>
+<h3 align="center">I am a data scientist / engineer with experience across academic, private, and public sector organisations.</h3>
 
-- 🌱 I’m currently heading up the data team at Oxfam Australia
-- ✨ I work across all things data and analytics, with a focus on data modelling, the modern data stack, and figuring out how help data teams make a real difference in complex organisations
+- 🌱 I’m currently heading up the Analytics and business process improvement teams at Oxfam Australia
+- ✨ I work across all things data, analytics and process improvement, with a focus on data modelling, the modern data stack, and working with senior executives and the c-suite to make sure that data teams can make a real difference in organisations
 - 📫 You can reach me at [fsingletonthorn@gmail.com](mailto:fsingletonthorn@gmail.com)
 
 <!-- 
